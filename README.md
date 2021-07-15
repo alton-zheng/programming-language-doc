@@ -62,6 +62,8 @@
 - [概览](distributed/distributed-overview.md)
 - [负载均衡模型](distributed/distributed-load-balance-model.md)
 - [LVS - 负载均衡器](distributed/distributed-load-balancing-lvs.md)
+  - [DR 模型搭建](distributed/distributed-load-balancing-dr-model-lvs.md)
+  - [基于 keepalived 的 LVS 的搭建](distributed/distributed-load-balancing-keepalived-lvs.md)
 
 &nbsp;
 
