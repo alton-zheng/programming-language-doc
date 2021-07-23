@@ -76,7 +76,7 @@ Before sending/receiving messages, we need to tell clients the location of name 
 
 ## Shutdown Servers
 
-```
+```bash
 > sh bin/mqshutdown broker
 The mqbroker(36695) is running...
 Send shutdown request to mqbroker(36695) OK

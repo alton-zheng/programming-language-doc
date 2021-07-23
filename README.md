@@ -333,7 +333,7 @@
 
 ## RocketMQ
 
-https://www.alibabacloud.com/help/doc-detail/95837.htm?spm=a2c63.q38357.b99.171.47ca2b90B1HBUJ
+- [alibabacloud](https://www.alibabacloud.com/help/doc-detail/95837.htm?spm=a2c63.q38357.b99.171.47ca2b90B1HBUJ)
 
 ### 1. 概念和特性
 
@@ -373,6 +373,7 @@ https://www.alibabacloud.com/help/doc-detail/95837.htm?spm=a2c63.q38357.b99.171.
 ### 5. 运维管理
 
 - [ ] [集群部署(Operation)](rocketmq/operation.md)：介绍单Master模式、多Master模式、多Master多slave模式等RocketMQ集群各种形式的部署方法以及运维工具mqadmin的使用方式。
+- [x] [Rocket MQ 集群配置启动](rocketmq/rocketmq-cluster-config-and-start.md)
 
 &nbsp;
 

@@ -151,6 +151,8 @@ https://github.com/apache/rocketmq-externals
 
 https://github.com/apache/rocketmq-externals/blob/master/rocketmq-console/doc/1_0_0/UserGuide_CN.md
 
+&nbsp;
+
 #### 上传到服务器并解压缩
 
 #### 编译
@@ -192,13 +194,11 @@ java -jar rocketmq-console-ng-1.0.1.jar --rocketmq.config.namesrvAddr=127.0.0.1:
  </dependency>
 ```
 
-
-
-
+&nbsp;
 
 ### 安装启动常见错误
 
-
+&nbsp;
 
 #### 编译时包无法在mirror上找到 提示502错误
 
